@@ -128,4 +128,4 @@ Additional Notes
 Context for Mercury Usage
 -------------------------
 
-Mercury is designed for scenarios where robust load balancing, clustering, or DNS services are required. Its configuration flexibility makes it suitable for environments ranging from simple proxy setups to complex clustered infrastructures. Understanding and tailoring these settings ensures the system runs securely and efficiently.
+Mercury is designed by `Technolati Team <https://www.technolati.com>`_ for scenarios where robust load balancing, clustering, or DNS services are required. Its configuration flexibility makes it suitable for environments ranging from simple proxy setups to complex clustered infrastructures. Understanding and tailoring these settings ensures the system runs securely and efficiently.
