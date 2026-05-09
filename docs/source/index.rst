@@ -6,7 +6,7 @@
     :author: Mercury Payment Team
 
 Welcome to Mercury's API Documentation
-===================================
+=======================================
 
 The Mercury API empowers you to seamlessly access and manage your accounts, view transaction histories, and initiate payments to existing recipients programmatically.
 
@@ -19,7 +19,7 @@ Access Account Information: Retrieve details of your accounts, balances, and tra
 - Automate Processes: Eliminate repetitive manual tasks by integrating Mercury's capabilities into your workflows.
 
 What to Expect
------------
+--------------
 
 This documentation outlines the available API endpoints, complete with:
 
@@ -31,7 +31,7 @@ Whether you're building tools for your team or automating financial operations, 
 
 If you have questions or need assistance, feel free to reach out to us at api@mercury.com.
 
-Let’s get started!
+Let's get started!
 
 .. toctree::
    :maxdepth: 2
